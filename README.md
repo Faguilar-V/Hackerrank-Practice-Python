@@ -1,2 +1,2 @@
 # Hackerrank-Practice-Python
-Algoritms
+Algorithms
